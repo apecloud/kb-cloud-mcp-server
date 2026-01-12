@@ -5,7 +5,7 @@ go 1.23.2
 toolchain go1.23.8
 
 require (
-	github.com/apecloud/kb-cloud-client-go v0.30.68
+	github.com/apecloud/kb-cloud-client-go v1.0.3
 	github.com/mark3labs/mcp-go v0.18.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.9.1
@@ -36,7 +36,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/oauth2 v0.25.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
